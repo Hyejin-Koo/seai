@@ -1,0 +1,1002 @@
+,age,gender,occupation,genre,rate,user_id,movie_id
+10000,10,0,K-12 student,35,3,605426,the+brady+bunch+movie+1995
+10001,30,0,scientist,878,4,358544,the+avengers+2012
+10002,20,0,college/grad student,80,4,287431,scream+1996
+10003,20,0,college/grad student,16,4,776688,toy+story+1995
+10004,20,0,scientist,35,3,876891,bananas+1971
+10005,20,0,executive/managerial,12,4,696288,jurassic+park+1993
+10006,20,0,self-employed,14,4,455949,spider-man+2002
+10007,30,0,college/grad student,12,3,987326,goldeneye+1995
+10008,30,0,executive/managerial,35,3,70830,cool+runnings+1993
+10009,60,1,retired,18,4,727261,midnight+cowboy+1969
+10010,30,0,executive/managerial,80,4,401889,lord+of+war+2005
+10011,20,0,sales/marketing,18,3,435274,children+of+the+corn+1984
+10012,20,1,college/grad student,12,2,4882,a+grand+day+out+1990
+10013,20,0,sales/marketing,28,5,562768,300+2006
+10014,30,1,executive/managerial,18,5,465095,october+sky+1999
+10015,20,0,college/grad student,80,4,781982,22+jump+street+2014
+10016,40,0,sales/marketing,28,5,462565,gladiator+2000
+10017,30,0,sales/marketing,80,3,658066,demolition+man+1993
+10018,30,0,college/grad student,28,5,154394,kill+bill+vol.+1+2003
+10019,20,0,college/grad student,18,4,360577,nashville+1975
+10020,30,0,other or not specified,35,4,777739,adams+rib+1949
+10021,30,0,executive/managerial,28,4,250257,the+running+man+1987
+10022,20,1,college/grad student,18,5,459805,apocalypse+now+1979
+10023,30,0,executive/managerial,18,4,559461,apollo+13+1995
+10024,30,1,executive/managerial,18,3,971406,richard+iii+1995
+10025,50,0,sales/marketing,18,4,487794,city+hall+1996
+10026,40,0,clerical/admin,35,4,615871,what+about+bob+1991
+10027,10,0,scientist,28,4,124994,beverly+hills+cop+1984
+10028,40,0,executive/managerial,14,4,477384,meet+joe+black+1998
+10029,20,1,academic/educator,35,4,368871,animal+house+1978
+10030,20,1,sales/marketing,12,4,709540,austin+powers+the+spy+who+shagged+me+1999
+10031,20,0,artist,99,4,466705,hoop+dreams+1994
+10032,20,0,executive/managerial,28,4,195837,braveheart+1995
+10033,40,1,academic/educator,18,3,768752,modern+times+1936
+10034,30,0,sales/marketing,14,5,234874,the+green+mile+1999
+10035,20,0,college/grad student,18,3,681131,the+juror+1996
+10036,30,0,college/grad student,27,4,578609,invasion+of+the+body+snatchers+1956
+10037,20,0,clerical/admin,80,3,134977,brother+2000
+10038,30,0,scientist,16,4,246249,despicable+me+2010
+10039,30,0,K-12 student,12,5,190173,dances+with+wolves+1990
+10040,20,0,college/grad student,28,1,351178,ransom+1996
+10041,30,0,artist,878,4,473231,the+toxic+avenger+1984
+10042,30,0,college/grad student,35,2,594963,the+beverly+hillbillies+1993
+10043,30,0,sales/marketing,35,5,772420,road+trip+2000
+10044,20,0,other or not specified,28,2,81122,the+quick+and+the+dead+1995
+10045,30,0,technician/engineer,28,3,668474,terminator+2+judgment+day+1991
+10046,20,0,other or not specified,35,4,230734,l.a.+story+1991
+10047,20,0,sales/marketing,14,3,67246,the+crow+1994
+10048,20,0,scientist,16,2,884087,finding+nemo+2003
+10049,30,0,lawyer,14,4,585763,the+nutty+professor+1996
+10050,20,0,customer service,28,3,789915,above+the+law+1988
+10051,20,0,retired,18,5,155025,fight+club+1999
+10052,30,1,homemaker,10749,3,501846,the+wedding+singer+1998
+10053,20,0,clerical/admin,14,3,477833,being+john+malkovich+1999
+10054,30,1,K-12 student,28,4,975002,spider-man+2+2004
+10055,30,1,executive/managerial,18,4,465095,les+miserables+1995
+10056,70,1,retired,18,3,598920,pay+it+forward+2000
+10057,20,0,college/grad student,18,4,282728,patriot+games+1992
+10058,30,0,clerical/admin,35,3,536123,arachnophobia+1990
+10059,20,1,homemaker,35,3,334483,it+could+happen+to+you+1994
+10060,30,0,college/grad student,18,4,100547,sling+blade+1996
+10061,30,0,college/grad student,28,4,765195,top+gun+1986
+10062,20,0,sales/marketing,18,5,67246,much+ado+about+nothing+1993
+10063,30,0,other or not specified,28,3,930576,heat+1995
+10064,40,1,academic/educator,12,3,73434,the+wizard+of+oz+1939
+10065,30,0,executive/managerial,18,5,176425,hotel+rwanda+2004
+10066,20,0,other or not specified,28,2,213084,assassins+1995
+10067,20,0,self-employed,18,3,30696,philadelphia+1993
+10068,30,0,academic/educator,10749,4,146438,the+crying+game+1992
+10069,20,1,retired,35,5,845411,animal+house+1978
+10070,30,0,college/grad student,16,5,195240,toy+story+2+1999
+10071,20,0,other or not specified,18,5,352373,rear+window+1954
+10072,30,0,sales/marketing,18,4,849595,mommie+dearest+1981
+10073,30,0,homemaker,18,3,714620,an+american+tail+1986
+10074,20,0,programmer,53,4,857686,cube+1997
+10075,20,0,other or not specified,28,2,358086,lethal+weapon+2+1989
+10076,20,0,college/grad student,28,3,40840,just+cause+1995
+10077,20,0,K-12 student,18,3,690792,save+the+last+dance+2001
+10078,30,0,college/grad student,16,4,293666,toy+story+1995
+10079,20,1,college/grad student,18,5,377015,the+dark+knight+2008
+10080,30,0,sales/marketing,28,3,449274,cliffhanger+1993
+10081,30,0,executive/managerial,80,4,274052,the+silence+of+the+lambs+1991
+10082,10,0,K-12 student,28,4,795506,grosse+pointe+blank+1997
+10083,20,1,retired,28,4,692836,in+the+line+of+fire+1993
+10084,20,0,clerical/admin,28,2,552395,leonard+part+6+1987
+10085,30,0,college/grad student,35,1,768946,father+of+the+bride+part+ii+1995
+10086,50,0,sales/marketing,10749,4,487794,whats+eating+gilbert+grape+1993
+10087,30,0,artist,18,4,300262,the+killing+1956
+10088,30,0,sales/marketing,35,3,216280,repo+man+1984
+10089,20,0,college/grad student,18,3,641124,titanic+1997
+10090,30,1,academic/educator,35,5,163002,500+days+of+summer+2009
+10091,80,0,executive/managerial,18,4,316870,billy+elliot+2000
+10092,30,0,college/grad student,10749,1,765195,fatal+attraction+1987
+10093,40,1,homemaker,12,3,511982,dances+with+wolves+1990
+10094,10,0,sales/marketing,80,1,195765,the+godfather+part+iii+1990
+10095,30,0,self-employed,18,5,498263,out+of+africa+1985
+10096,30,0,sales/marketing,35,4,770203,singin+in+the+rain+1952
+10097,30,0,executive/managerial,28,3,539419,maverick+1994
+10098,20,0,college/grad student,35,3,798257,the+birdcage+1996
+10099,20,0,executive/managerial,28,4,852565,inception+2010
+10100,20,0,lawyer,18,5,629403,dead+poets+society+1989
+10101,20,0,scientist,99,4,484983,stop+making+sense+1984
+10102,20,1,college/grad student,35,1,527001,flawless+1999
+10103,30,0,scientist,16,4,935748,monsters_+inc.+2001
+10104,20,0,K-12 student,18,3,543470,the+shawshank+redemption+1994
+10105,30,0,executive/managerial,18,4,160035,battle+of+the+bulge+1965
+10106,50,0,sales/marketing,18,3,562649,raging+bull+1980
+10107,30,0,other or not specified,35,3,563358,patch+adams+1998
+10108,30,0,college/grad student,28,2,815269,executive+decision+1996
+10109,20,0,executive/managerial,18,4,144505,the+piano+1993
+10110,30,0,college/grad student,28,5,854675,muppet+treasure+island+1996
+10111,30,1,self-employed,35,3,565446,my+best+friends+wedding+1997
+10112,30,0,college/grad student,28,3,318916,men+in+black+1997
+10113,20,1,college/grad student,28,1,377015,lethal+weapon+4+1998
+10114,30,0,college/grad student,18,3,756033,the+shawshank+redemption+1994
+10115,30,0,self-employed,28,4,662240,crimson+tide+1995
+10116,30,0,sales/marketing,18,3,889550,ever+after+a+cinderella+story+1998
+10117,30,0,college/grad student,35,5,378156,singin+in+the+rain+1952
+10118,20,0,homemaker,28,3,479443,three+kings+1999
+10119,30,1,college/grad student,99,4,418499,the+revolution+will+not+be+televised+2003
+10120,30,1,artist,18,4,537431,walk+the+line+2005
+10121,20,0,scientist,28,4,339001,the+big+green+1995
+10122,30,0,scientist,35,3,850820,young+frankenstein+1974
+10123,20,0,sales/marketing,12,3,451026,pollyanna+1960
+10124,30,0,college/grad student,35,1,786069,while+you+were+sleeping+1995
+10125,30,0,executive/managerial,14,4,133464,the+lord+of+the+rings+1978
+10126,60,1,retired,18,5,736847,a+streetcar+named+desire+1951
+10127,20,0,technician/engineer,878,3,341077,outland+1981
+10128,40,0,executive/managerial,28,1,2369,charlies+angels+2000
+10129,30,0,scientist,12,2,560277,lemony+snickets+a+series+of+unfortunate+events+2004
+10130,20,0,scientist,27,1,776158,i+still+know+what+you+did+last+summer+1998
+10131,20,0,sales/marketing,28,3,309644,the+fast+and+the+furious+2001
+10132,20,0,college/grad student,12,4,282728,star+wars+1977
+10133,20,0,other or not specified,878,5,452319,star+trek+generations+1994
+10134,20,0,sales/marketing,35,4,341614,amlie+2001
+10135,30,0,executive/managerial,28,2,347681,the+dirty+dozen+1967
+10136,20,0,executive/managerial,35,4,610413,to+wong+foo_+thanks+for+everything+julie+newmar+1995
+10137,20,0,K-12 student,14,5,884257,the+green+mile+1999
+10138,30,0,executive/managerial,12,5,176425,crouching+tiger_+hidden+dragon+2000
+10139,20,0,sales/marketing,35,3,187697,mars+attacks+1996
+10140,20,0,executive/managerial,35,3,851311,raising+arizona+1987
+10141,30,0,college/grad student,18,2,500239,showgirls+1995
+10142,20,0,scientist,12,4,484983,a+grand+day+out+1990
+10143,30,0,college/grad student,12,3,56869,austin+powers+the+spy+who+shagged+me+1999
+10144,30,0,college/grad student,53,4,543994,mystic+river+2003
+10145,30,0,sales/marketing,18,5,234874,the+game+1997
+10146,20,0,technician/engineer,878,5,269787,twelve+monkeys+1995
+10147,30,0,executive/managerial,80,4,933357,chinatown+1974
+10148,30,0,scientist,12,4,565363,indiana+jones+and+the+last+crusade+1989
+10149,20,0,sales/marketing,28,4,354032,die+hard+2+1990
+10150,30,0,college/grad student,35,4,578609,young+frankenstein+1974
+10151,20,0,K-12 student,12,4,267260,logans+run+1976
+10152,30,0,artist,12,4,464787,goldfinger+1964
+10153,30,0,executive/managerial,28,4,107765,la+femme+nikita+1990
+10154,20,0,executive/managerial,28,5,68663,robocop+3+1993
+10155,20,0,executive/managerial,28,5,604113,the+three+musketeers+1993
+10156,20,0,other or not specified,35,1,769487,the+big+kahuna+2000
+10157,30,0,college/grad student,12,3,756033,dances+with+wolves+1990
+10158,30,0,self-employed,28,3,105421,money+train+1995
+10159,20,0,technician/engineer,28,4,36069,faceoff+1997
+10160,20,0,college/grad student,14,3,591581,the+island+of+dr.+moreau+1996
+10161,30,0,college/grad student,18,5,968671,the+enigma+of+kaspar+hauser+1974
+10162,20,0,college/grad student,28,3,879204,broken+arrow+1996
+10163,30,0,homemaker,18,4,126781,the+accused+1988
+10164,30,0,college/grad student,35,5,195240,10+things+i+hate+about+you+1999
+10165,20,0,college/grad student,35,3,948825,life+of+brian+1979
+10166,20,0,doctor/health care,35,3,816808,driving+miss+daisy+1989
+10167,30,0,college/grad student,28,5,774476,gladiator+2000
+10168,20,0,college/grad student,27,4,661983,aliens+1986
+10169,20,0,self-employed,53,3,827117,kalifornia+1993
+10170,30,1,college/grad student,35,3,913667,the+birdcage+1996
+10171,20,0,executive/managerial,80,5,891193,the+net+1995
+10172,30,0,college/grad student,28,5,907561,batman+begins+2005
+10173,20,0,college/grad student,28,5,930299,speed+1994
+10174,30,0,executive/managerial,28,4,250257,the+professional+1981
+10175,20,1,college/grad student,35,1,253069,jakob+the+liar+1999
+10176,10,0,sales/marketing,18,4,249313,welcome+to+the+rileys+2010
+10177,20,0,sales/marketing,35,4,39398,the+truman+show+1998
+10178,20,0,executive/managerial,16,4,891193,aladdin+1992
+10179,20,1,college/grad student,35,5,159784,addams+family+values+1993
+10180,30,0,executive/managerial,53,3,590258,bitter+moon+1992
+10181,30,0,executive/managerial,14,3,951833,big+1988
+10182,30,1,self-employed,18,5,275814,leaving+las+vegas+1995
+10183,30,0,self-employed,12,2,81311,harry+potter+and+the+philosophers+stone+2001
+10184,30,0,executive/managerial,28,4,240597,braveheart+1995
+10185,20,0,other or not specified,14,4,769487,sleeping+beauty+1959
+10186,30,0,sales/marketing,35,5,849595,raising+arizona+1987
+10187,20,0,K-12 student,16,4,903464,up+2009
+10188,20,0,college/grad student,28,3,835266,ronin+1998
+10189,30,1,academic/educator,9648,5,243731,the+sixth+sense+1999
+10190,10,0,sales/marketing,18,4,509798,the+contender+2000
+10191,20,0,self-employed,53,5,954712,pulp+fiction+1994
+10192,30,0,other or not specified,28,1,393419,under+siege+2+dark+territory+1995
+10193,40,0,executive/managerial,35,4,2369,harry_+hes+here+to+help+2000
+10194,20,0,K-12 student,16,3,862518,pokmon+the+first+movie+mewtwo+strikes+back+1998
+10195,30,0,sales/marketing,18,4,234874,the+final+cut+2004
+10196,20,0,college/grad student,28,4,17584,in+the+line+of+fire+1993
+10197,20,0,college/grad student,53,3,282728,snatch+2000
+10198,30,0,sales/marketing,12,4,1107,lost+horizon+1937
+10199,30,1,homemaker,12,3,692593,troop+beverly+hills+1989
+10200,20,0,college/grad student,35,3,930728,airheads+1994
+10201,10,0,homemaker,28,1,930092,deep+impact+1998
+10202,20,0,scientist,80,5,721467,hot+fuzz+2007
+10203,30,0,other or not specified,35,3,27035,addams+family+values+1993
+10204,30,0,self-employed,35,4,89372,500+days+of+summer+2009
+10205,60,0,other or not specified,35,5,167577,four+weddings+and+a+funeral+1994
+10206,30,0,college/grad student,35,4,232538,mighty+aphrodite+1995
+10207,30,0,self-employed,80,3,979793,ace+ventura+when+nature+calls+1995
+10208,20,0,scientist,12,4,908709,jurassic+park+1993
+10209,20,0,K-12 student,27,5,509718,the+vanishing+1988
+10210,30,0,college/grad student,18,4,336160,apollo+13+1995
+10211,20,0,college/grad student,28,4,780326,the+day+after+tomorrow+2004
+10212,20,0,college/grad student,18,4,277508,three+colors+blue+1993
+10213,10,0,self-employed,12,4,604262,star+wars+1977
+10214,20,0,sales/marketing,53,4,465448,leon+the+professional+1994
+10215,20,0,self-employed,878,5,354935,close+encounters+of+the+third+kind+1977
+10216,20,0,homemaker,28,4,816149,iron+monkey+1993
+10217,50,0,sales/marketing,10749,4,487794,out+of+sight+1998
+10218,30,0,sales/marketing,36,3,444925,public+enemies+2009
+10219,60,1,retired,27,1,736847,rosemarys+baby+1968
+10220,10,0,sales/marketing,18,3,249313,schindlers+list+1993
+10221,30,0,scientist,80,3,820213,fargo+1996
+10222,30,0,executive/managerial,35,4,649001,while+you+were+sleeping+1995
+10223,10,0,sales/marketing,28,3,979623,national+treasure+book+of+secrets+2007
+10224,30,0,college/grad student,28,3,749399,kiss+of+death+1995
+10225,30,0,scientist,12,4,763849,tomorrow+never+dies+1997
+10226,30,0,sales/marketing,35,5,382952,knocked+up+2007
+10227,30,0,executive/managerial,18,5,723824,hamlet+1990
+10228,30,1,academic/educator,35,5,57569,the+royal+tenenbaums+2001
+10229,20,0,executive/managerial,28,3,948282,the+poseidon+adventure+1972
+10230,20,0,clerical/admin,12,2,391424,legends+of+the+fall+1994
+10231,30,0,sales/marketing,35,4,441406,talladega+nights+the+ballad+of+ricky+bobby+2006
+10232,20,1,sales/marketing,878,4,709540,e.t.+the+extra-terrestrial+1982
+10233,20,0,sales/marketing,35,4,460348,fletch+1985
+10234,30,0,artist,28,2,818539,street+fighter+the+legend+of+chun-li+2009
+10235,30,0,executive/managerial,18,5,287656,apollo+13+1995
+10236,20,0,sales/marketing,10749,4,794090,groundhog+day+1993
+10237,30,0,executive/managerial,18,3,393039,a+simple+twist+of+fate+1994
+10238,20,1,unemployed,18,3,970101,wings+of+desire+1987
+10239,20,0,artist,12,4,641171,holes+2003
+10240,30,0,scientist,18,3,763849,romeo++juliet+1996
+10241,20,0,scientist,9648,4,908709,memento+2000
+10242,0,0,homemaker,10749,3,832746,monster-in-law+2005
+10243,30,0,college/grad student,80,4,749399,rumble+in+the+bronx+1995
+10244,20,1,college/grad student,99,3,20026,the+king+of+kong+2007
+10245,30,0,college/grad student,35,4,385660,napoleon+dynamite+2004
+10246,20,0,K-12 student,27,5,509718,rosemarys+baby+1968
+10247,20,0,sales/marketing,28,4,41484,im+gonna+git+you+sucka+1988
+10248,30,0,self-employed,10402,3,293008,waynes+world+1992
+10249,20,1,artist,80,3,243748,the+silence+of+the+lambs+1991
+10250,30,0,college/grad student,28,3,850166,true+lies+1994
+10251,20,0,K-12 student,12,1,903464,10_000+bc+2008
+10252,30,0,executive/managerial,18,5,9369,apocalypse+now+1979
+10253,30,0,sales/marketing,37,3,289418,blazing+saddles+1974
+10254,30,0,artist,14,4,452975,underworld+evolution+2006
+10255,30,1,scientist,12,5,59954,babe+pig+in+the+city+1998
+10256,50,0,clerical/admin,35,4,664480,flawless+1999
+10257,20,0,self-employed,28,3,60334,the+rock+1996
+10258,10,0,K-12 student,12,3,903733,transformers+2007
+10259,20,0,college/grad student,35,1,793125,the+rocky+horror+picture+show+1975
+10260,20,0,college/grad student,53,4,930299,pulp+fiction+1994
+10261,30,0,executive/managerial,35,4,448220,french+kiss+1995
+10262,20,0,executive/managerial,35,5,68663,white+men+cant+jump+1992
+10263,30,0,college/grad student,18,1,768946,the+bridges+of+madison+county+1995
+10264,20,1,college/grad student,53,5,577362,mystic+river+2003
+10265,30,0,academic/educator,28,4,605641,true+lies+1994
+10266,20,0,college/grad student,18,4,886793,code+46+2003
+10267,30,0,college/grad student,35,5,408146,spaceballs+1987
+10268,30,0,sales/marketing,14,4,578897,being+john+malkovich+1999
+10269,20,1,clerical/admin,35,3,860796,the+house+of+yes+1997
+10270,20,0,college/grad student,18,3,681131,dead+man+walking+1995
+10271,30,0,technician/engineer,878,5,824191,predator+1987
+10272,20,0,executive/managerial,35,3,851311,the+naked+gun+33+the+final+insult+1994
+10273,30,0,academic/educator,28,3,827789,desperate+measures+1998
+10274,20,0,sales/marketing,35,4,460348,jakob+the+liar+1999
+10275,20,0,sales/marketing,80,4,465448,play+misty+for+me+1971
+10276,30,0,homemaker,35,3,502931,moonstruck+1987
+10277,20,0,executive/managerial,12,5,924569,the+fugitive+1993
+10278,30,0,college/grad student,35,4,679331,clerks+1994
+10279,30,0,self-employed,35,3,545152,multiplicity+1996
+10280,30,0,artist,18,4,300262,american+beauty+1999
+10281,30,0,sales/marketing,10749,4,382952,theres+something+about+mary+1998
+10282,30,0,scientist,10751,4,906314,the+lion+king+1994
+10283,30,0,executive/managerial,18,4,933357,sling+blade+1996
+10284,20,0,scientist,28,4,668267,batman+forever+1995
+10285,50,0,sales/marketing,35,5,562649,my+favorite+year+1982
+10286,20,0,college/grad student,35,4,791242,american+pie+2+2001
+10287,30,0,college/grad student,80,4,527485,fargo+1996
+10288,30,0,executive/managerial,27,3,951833,the+fly+1986
+10289,20,0,sales/marketing,53,3,67246,planet+of+the+apes+2001
+10290,20,0,executive/managerial,28,3,549865,outbreak+1995
+10291,30,0,executive/managerial,28,1,933357,hot+shots+part+deux+1993
+10292,30,0,self-employed,35,2,623475,dumb+and+dumber+1994
+10293,30,0,sales/marketing,12,4,527475,princess+mononoke+1997
+10294,20,0,college/grad student,28,4,794779,three+days+of+the+condor+1975
+10295,20,0,sales/marketing,12,4,179204,dances+with+wolves+1990
+10296,40,0,executive/managerial,28,4,477384,ronin+1998
+10297,30,0,sales/marketing,35,3,772420,dirty+work+1998
+10298,20,1,college/grad student,878,5,253069,a+clockwork+orange+1971
+10299,30,0,executive/managerial,80,4,412128,se7en+1995
+10300,20,0,college/grad student,18,5,81321,the+shawshank+redemption+1994
+10301,20,0,executive/managerial,12,3,514831,goldeneye+1995
+10302,30,0,scientist,14,5,560277,the+nightmare+before+christmas+1993
+10303,20,0,other or not specified,28,4,407748,rush+hour+1998
+10304,30,0,executive/managerial,878,2,981913,2001+a+space+odyssey+1968
+10305,30,0,college/grad student,878,5,376261,blade+runner+1982
+10306,20,1,self-employed,35,4,881247,13+going+on+30+2004
+10307,20,1,homemaker,12,3,923487,antz+1998
+10308,30,0,executive/managerial,35,3,274052,forrest+gump+1994
+10309,30,0,executive/managerial,35,5,240597,forrest+gump+1994
+10310,20,0,executive/managerial,18,5,604113,the+lives+of+others+2006
+10311,20,0,executive/managerial,18,4,922490,a+bronx+tale+1993
+10312,0,0,homemaker,12,5,832746,monty+python+and+the+holy+grail+1975
+10313,10,0,K-12 student,12,5,570885,monty+python+and+the+holy+grail+1975
+10314,50,0,scientist,9648,5,9889,the+maltese+falcon+1941
+10315,30,0,artist,37,2,22178,blazing+saddles+1974
+10316,30,0,other or not specified,18,5,930576,trainspotting+1996
+10317,20,0,executive/managerial,28,3,610413,city+slickers+ii+the+legend+of+curlys+gold+1994
+10318,30,0,K-12 student,12,3,171966,highlander+1986
+10319,30,0,self-employed,10749,4,394878,orlando+1992
+10320,30,0,artist,18,3,300262,elizabeth+1998
+10321,30,0,executive/managerial,27,5,939796,13+ghosts+1960
+10322,20,0,scientist,35,2,908709,basket+case+1982
+10323,20,0,sales/marketing,35,3,123334,school+of+rock+2003
+10324,30,0,clerical/admin,80,2,536123,the+wrong+man+1956
+10325,20,0,scientist,35,4,283832,the+hangover+2009
+10326,20,0,college/grad student,12,3,584066,the+lord+of+the+rings+the+return+of+the+king+2003
+10327,20,0,college/grad student,18,1,207006,much+ado+about+nothing+1993
+10328,20,0,self-employed,35,4,857303,life+of+brian+1979
+10329,30,0,other or not specified,12,5,325453,the+big+blue+1988
+10330,20,0,tradesman/craftsman,12,3,380547,the+phantom+1996
+10331,30,0,scientist,28,3,820213,lara+croft+tomb+raider+the+cradle+of+life+2003
+10332,30,0,college/grad student,53,4,195240,reindeer+games+2000
+10333,20,0,college/grad student,35,3,618224,liar+liar+1997
+10334,30,0,college/grad student,35,5,28765,american+graffiti+1973
+10335,30,0,sales/marketing,12,4,527475,bill++teds+excellent+adventure+1989
+10336,20,0,college/grad student,28,1,584066,minority+report+2002
+10337,20,0,sales/marketing,53,4,295203,fallen+1998
+10338,30,1,self-employed,14,4,565446,being+john+malkovich+1999
+10339,20,0,other or not specified,27,1,734008,i+still+know+what+you+did+last+summer+1998
+10340,20,0,K-12 student,12,5,198556,the+lord+of+the+rings+the+return+of+the+king+2003
+10341,70,0,retired,80,5,796926,west+side+story+1961
+10342,50,0,executive/managerial,18,5,447095,rain+man+1988
+10343,30,0,sales/marketing,18,3,444925,i+am+legend+2007
+10344,20,0,other or not specified,35,4,407748,driving+miss+daisy+1989
+10345,70,1,retired,28,4,598920,sergeant+york+1941
+10346,30,0,other or not specified,18,3,420994,the+shawshank+redemption+1994
+10347,30,0,college/grad student,18,4,378156,cinema+paradiso+1988
+10348,20,0,self-employed,28,4,126396,men+in+black+1997
+10349,30,0,college/grad student,18,5,507959,the+name+of+the+rose+1986
+10350,60,0,other or not specified,35,5,167577,mrs.+doubtfire+1993
+10351,30,0,executive/managerial,28,4,893602,true+lies+1994
+10352,30,0,K-12 student,14,5,22171,the+seventh+seal+1957
+10353,20,0,homemaker,35,4,479443,wag+the+dog+1997
+10354,20,1,homemaker,18,4,40262,the+secret+garden+1993
+10355,30,0,self-employed,16,4,509691,dumbo+1941
+10356,30,0,technician/engineer,28,3,656351,stargate+1994
+10357,20,1,clerical/admin,18,4,860796,mrs.+parker+and+the+vicious+circle+1994
+10358,10,0,K-12 student,18,5,530080,the+dark+knight+2008
+10359,30,0,sales/marketing,28,3,218973,spartacus+1960
+10360,20,0,programmer,28,4,857686,men+in+black+1997
+10361,30,0,college/grad student,18,4,910654,born+on+the+fourth+of+july+1989
+10362,20,0,sales/marketing,35,5,75173,tommy+boy+1995
+10363,20,1,homemaker,9648,5,857941,north+by+northwest+1959
+10364,30,0,executive/managerial,18,3,412088,winters+bone+2010
+10365,30,0,college/grad student,28,4,902621,white+squall+1996
+10366,20,0,scientist,18,5,152876,la+grande+bouffe+1973
+10367,10,0,sales/marketing,35,4,249313,thank+you+for+smoking+2005
+10368,20,0,sales/marketing,12,5,451026,back+to+the+future+1985
+10369,20,0,college/grad student,28,4,108537,proof+of+life+2000
+10370,20,0,scientist,878,5,994906,the+butterfly+effect+2004
+10371,10,1,homemaker,12,4,394637,the+fifth+element+1997
+10372,20,0,self-employed,12,2,354935,back+to+the+future+1985
+10373,30,1,academic/educator,53,3,57569,fracture+2007
+10374,20,0,scientist,16,3,629580,pinocchio+1940
+10375,20,0,college/grad student,12,4,961286,monty+python+and+the+holy+grail+1975
+10376,30,0,executive/managerial,18,3,106504,the+client+1994
+10377,20,1,homemaker,12,5,857941,raiders+of+the+lost+ark+1981
+10378,20,0,scientist,12,4,926567,return+of+the+jedi+1983
+10379,20,0,college/grad student,878,1,10576,unbreakable+2000
+10380,10,0,homemaker,35,4,546582,forrest+gump+1994
+10381,20,1,homemaker,10751,4,334483,time+bandits+1981
+10382,20,0,sales/marketing,28,1,341614,gladiator+2000
+10383,20,0,self-employed,12,4,821275,indiana+jones+and+the+last+crusade+1989
+10384,30,0,self-employed,28,4,306743,tombstone+1993
+10385,30,0,executive/managerial,12,5,14762,dances+with+wolves+1990
+10386,20,0,college/grad student,28,3,879204,the+arrival+1996
+10387,20,0,sales/marketing,53,1,354032,the+sum+of+all+fears+2002
+10388,30,0,sales/marketing,18,5,770203,the+sound+of+music+1965
+10389,30,0,K-12 student,18,4,22171,american+gangster+2007
+10390,20,0,college/grad student,12,4,104505,crouching+tiger_+hidden+dragon+2000
+10391,20,1,other or not specified,35,5,475236,life+is+beautiful+1997
+10392,20,0,scientist,28,3,375422,das+boot+1981
+10393,20,0,college/grad student,35,3,707196,addams+family+values+1993
+10394,20,1,executive/managerial,35,5,434918,bowfinger+1999
+10395,20,0,executive/managerial,18,3,448222,rain+man+1988
+10396,30,0,college/grad student,28,5,774476,the+matrix+1999
+10397,30,0,college/grad student,28,4,540618,o+brother_+where+art+thou+2000
+10398,30,0,other or not specified,12,5,572962,the+mummy+1999
+10399,20,0,executive/managerial,28,5,670527,the+incredibles+2004
+10400,20,0,academic/educator,14,3,818778,who+framed+roger+rabbit+1988
+10401,30,1,college/grad student,18,4,338314,like+water+for+chocolate+1992
+10402,30,0,self-employed,18,5,498263,things+change+1988
+10403,30,1,artist,12,4,537431,fantastic+mr.+fox+2009
+10404,30,0,college/grad student,18,3,910654,american+gangster+2007
+10405,30,0,executive/managerial,28,3,867348,heat+1995
+10406,20,0,college/grad student,35,4,314742,matilda+1996
+10407,20,0,college/grad student,28,4,466501,minority+report+2002
+10408,30,0,college/grad student,80,2,115988,ace+ventura+when+nature+calls+1995
+10409,20,0,scientist,27,3,876891,evil+dead+ii+1987
+10410,20,1,executive/managerial,18,4,707736,the+business+of+strangers+2001
+10411,30,0,college/grad student,28,5,774476,the+bourne+supremacy+2004
+10412,20,0,college/grad student,18,5,529119,reality+bites+1994
+10413,60,1,retired,12,3,736847,logans+run+1976
+10414,20,0,K-12 student,28,5,563184,braveheart+1995
+10415,20,0,college/grad student,28,3,404638,clear+and+present+danger+1994
+10416,20,0,college/grad student,28,4,687463,batman+begins+2005
+10417,30,0,scientist,18,3,493965,out+of+africa+1985
+10418,30,1,college/grad student,18,2,561974,about+a+boy+2002
+10419,30,1,homemaker,10749,3,656293,the+wedding+singer+1998
+10420,20,0,other or not specified,12,3,452319,the+lost+world+jurassic+park+1997
+10421,20,0,college/grad student,18,4,314742,phenomenon+1996
+10422,20,0,scientist,35,3,339001,coneheads+1993
+10423,20,1,college/grad student,18,4,377015,american+gangster+2007
+10424,30,0,clerical/admin,99,4,536123,when+we+were+kings+1996
+10425,30,0,self-employed,35,3,394878,nurse+betty+2000
+10426,20,0,self-employed,18,5,230958,12+angry+men+1957
+10427,30,0,executive/managerial,28,4,176425,kiss+kiss+bang+bang+2005
+10428,30,0,college/grad student,35,2,677155,martin+lawrence+live+runteldat+2002
+10429,30,0,retired,27,3,246911,alien+1979
+10430,40,1,homemaker,10749,4,511982,don+juan+demarco+1994
+10431,20,0,college/grad student,18,5,999128,incendies+2010
+10432,30,1,executive/managerial,10749,5,971406,don+juan+demarco+1994
+10433,30,0,executive/managerial,878,4,316695,e.t.+the+extra-terrestrial+1982
+10434,30,0,K-12 student,18,4,809364,inglourious+basterds+2009
+10435,30,0,college/grad student,27,2,578609,the+lost+boys+1987
+10436,20,0,technician/engineer,12,2,341077,a+knights+tale+2001
+10437,20,1,self-employed,16,3,881247,toy+story+1995
+10438,20,0,executive/managerial,12,5,852565,star+wars+1977
+10439,30,0,executive/managerial,28,4,683243,run+lola+run+1998
+10440,20,0,sales/marketing,35,3,337752,look+whos+talking+1989
+10441,20,0,scientist,35,4,283832,juno+2007
+10442,20,0,executive/managerial,10749,4,777924,message+in+a+bottle+1999
+10443,30,1,college/grad student,18,3,913667,leaving+las+vegas+1995
+10444,30,0,college/grad student,878,3,178008,twelve+monkeys+1995
+10445,30,1,academic/educator,12,4,372662,one+hundred+and+one+dalmatians+1961
+10446,30,0,K-12 student,35,3,190173,m*a*s*h+1970
+10447,30,0,customer service,35,4,278330,my+cousin+vinny+1992
+10448,10,0,retired,12,4,964538,honey_+i+shrunk+the+kids+1989
+10449,20,1,unemployed,35,4,970101,election+1999
+10450,30,0,college/grad student,53,4,817885,the+saint+1997
+10451,30,0,scientist,35,3,117549,dumb+and+dumber+1994
+10452,30,0,self-employed,53,3,662240,leon+the+professional+1994
+10453,20,0,technician/engineer,18,4,36069,the+babadook+2014
+10454,10,0,college/grad student,27,4,785417,the+omen+1976
+10455,20,0,other or not specified,18,5,846016,the+shawshank+redemption+1994
+10456,30,0,college/grad student,12,3,915729,the+jungle+book+1994
+10457,20,0,self-employed,18,2,857303,dead+poets+society+1989
+10458,30,1,other or not specified,35,3,952810,the+best+mans+wedding+2000
+10459,30,0,college/grad student,10749,5,786069,whats+eating+gilbert+grape+1993
+10460,20,0,sales/marketing,18,4,583282,a+beautiful+mind+2001
+10461,20,0,sales/marketing,35,4,892499,ace+ventura+pet+detective+1994
+10462,30,0,sales/marketing,12,3,449274,the+hitchhikers+guide+to+the+galaxy+2005
+10463,30,0,executive/managerial,35,4,133464,the+apartment+1960
+10464,20,0,college/grad student,28,2,277508,outbreak+1995
+10465,20,0,sales/marketing,27,4,41484,poltergeist+1982
+10466,30,0,executive/managerial,10751,2,171201,how+the+grinch+stole+christmas+2000
+10467,20,0,scientist,12,5,776158,the+fugitive+1993
+10468,10,0,K-12 student,35,4,570885,i+heart+huckabees+2004
+10469,20,0,other or not specified,35,4,452319,mrs.+doubtfire+1993
+10470,20,0,self-employed,18,4,60334,full+metal+jacket+1987
+10471,30,0,self-employed,878,3,498263,escape+from+new+york+1981
+10472,30,0,self-employed,80,5,979793,natural+born+killers+1994
+10473,30,0,executive/managerial,12,3,282694,tomorrow+never+dies+1997
+10474,20,0,sales/marketing,27,5,176248,carrie+1976
+10475,20,0,college/grad student,18,5,8163,two+girls+and+a+guy+1997
+10476,30,0,college/grad student,16,5,28765,south+park+bigger_+longer++uncut+1999
+10477,30,0,executive/managerial,80,1,123208,bound+1996
+10478,20,1,artist,35,3,637575,driving+miss+daisy+1989
+10479,30,0,college/grad student,12,2,613480,mission+impossible+ii+2000
+10480,30,0,college/grad student,27,4,768599,pink+flamingos+1972
+10481,20,0,scientist,28,3,994906,salt+2010
+10482,30,0,executive/managerial,28,3,241084,armageddon+1998
+10483,30,0,college/grad student,28,5,254455,beverly+hills+cop+iii+1994
+10484,30,0,executive/managerial,18,5,939570,one+flew+over+the+cuckoos+nest+1975
+10485,30,0,other or not specified,35,4,670902,man+on+the+moon+1999
+10486,20,0,self-employed,28,3,259789,guardians+of+the+galaxy+2014
+10487,20,0,scientist,35,2,22708,splendor+1999
+10488,30,0,college/grad student,18,4,813755,the+people+vs.+larry+flynt+1996
+10489,20,0,other or not specified,12,2,532564,dances+with+wolves+1990
+10490,30,0,college/grad student,12,4,540618,the+lord+of+the+rings+the+fellowship+of+the+ring+2001
+10491,30,0,college/grad student,18,4,385660,catch+me+if+you+can+2002
+10492,30,0,self-employed,35,3,662240,so+i+married+an+axe+murderer+1993
+10493,30,0,sales/marketing,28,4,349715,dirty+harry+1971
+10494,20,0,other or not specified,12,2,734008,return+of+the+jedi+1983
+10495,20,1,homemaker,12,4,6878,the+fox+and+the+hound+1981
+10496,20,0,college/grad student,27,5,287431,jaws+1975
+10497,20,0,artist,53,4,641171,traffic+2000
+10498,20,0,scientist,35,2,597434,ace+ventura+pet+detective+1994
+10499,20,0,scientist,28,4,216237,die+hard+1988
+10500,30,0,artist,18,3,22178,the+cider+house+rules+1999
+10501,30,0,executive/managerial,35,2,171201,me_+myself++irene+2000
+10502,30,0,executive/managerial,35,1,316695,8+heads+in+a+duffel+bag+1997
+10503,30,0,sales/marketing,28,4,477156,star+trek+ii+the+wrath+of+khan+1982
+10504,20,1,executive/managerial,14,3,548154,being+john+malkovich+1999
+10505,20,1,college/grad student,12,2,129015,george+of+the+jungle+1997
+10506,30,0,scientist,80,3,444086,midnight+in+the+garden+of+good+and+evil+1997
+10507,20,0,self-employed,35,2,115885,the+wedding+planner+2001
+10508,30,0,self-employed,18,5,498263,nil+by+mouth+1997
+10509,20,0,K-12 student,35,2,198556,big+daddy+1999
+10510,20,0,college/grad student,18,4,17584,the+client+1994
+10511,30,0,college/grad student,16,4,672090,monsters_+inc.+2001
+10512,30,0,sales/marketing,18,3,382952,apocalypse+now+1979
+10513,30,0,scientist,16,5,695077,the+adventures+of+pinocchio+1996
+10514,30,0,sales/marketing,35,4,852919,thank+you+for+smoking+2005
+10515,20,1,college/grad student,53,3,20026,awake+2007
+10516,20,1,executive/managerial,18,3,616789,lost+in+translation+2003
+10517,30,0,college/grad student,28,4,616369,die+hard+with+a+vengeance+1995
+10518,20,1,college/grad student,80,3,577362,boyz+n+the+hood+1991
+10519,20,0,sales/marketing,80,5,704591,blood+simple+1984
+10520,30,0,college/grad student,28,3,749399,stargate+1994
+10521,20,1,homemaker,18,4,40262,the+shawshank+redemption+1994
+10522,30,0,other or not specified,35,4,559747,white+men+cant+jump+1992
+10523,10,0,K-12 student,28,4,766328,mad+money+2008
+10524,40,0,executive/managerial,9648,4,125494,north+by+northwest+1959
+10525,20,0,scientist,14,2,994906,how+to+train+your+dragon+2+2014
+10526,20,0,clerical/admin,14,2,609067,the+witches+of+eastwick+1987
+10527,30,0,artist,12,4,621966,the+chronicles+of+narnia+the+voyage+of+the+dawn+treader+2010
+10528,20,1,homemaker,14,5,6878,batman+1989
+10529,30,1,self-employed,18,4,565446,casablanca+1942
+10530,20,0,K-12 student,35,1,633232,fast+times+at+ridgemont+high+1982
+10531,20,1,artist,35,4,498687,while+you+were+sleeping+1995
+10532,20,0,other or not specified,878,3,846016,species+1995
+10533,20,0,sales/marketing,18,5,295203,the+godfather+part+ii+1974
+10534,20,1,college/grad student,28,5,129015,the+mask+of+zorro+1998
+10535,30,0,executive/managerial,99,4,238025,bowling+for+columbine+2002
+10536,20,0,self-employed,878,3,259379,alien+1992
+10537,20,0,self-employed,35,5,30696,the+postman+1994
+10538,30,0,college/grad student,18,4,768599,philadelphia+1993
+10539,30,1,homemaker,35,5,656293,the+american+president+1995
+10540,30,0,executive/managerial,10749,3,867348,beauty+and+the+beast+1991
+10541,20,1,sales/marketing,35,4,709540,get+shorty+1995
+10542,30,0,college/grad student,27,3,735226,phantasm+1979
+10543,20,0,college/grad student,28,4,886793,grosse+pointe+blank+1997
+10544,30,0,executive/managerial,18,3,393039,circle+of+friends+1995
+10545,30,0,homemaker,35,3,893918,the+beautician+and+the+beast+1997
+10546,20,0,college/grad student,28,3,520049,eraser+1996
+10547,30,0,other or not specified,35,3,930576,the+postman+1994
+10548,10,1,homemaker,35,4,394637,bride+wars+2009
+10549,20,0,college/grad student,18,3,770914,a.i.+artificial+intelligence+2001
+10550,20,0,sales/marketing,14,3,341614,edward+scissorhands+1990
+10551,20,1,executive/managerial,12,5,279547,star+wars+1977
+10552,50,0,scientist,18,4,9889,on+golden+pond+1981
+10553,20,0,sales/marketing,878,2,295203,escape+from+new+york+1981
+10554,30,0,college/grad student,80,4,815269,primal+fear+1996
+10555,20,0,scientist,18,1,677182,snow+falling+on+cedars+1999
+10556,20,0,self-employed,28,4,259379,batman+begins+2005
+10557,20,0,sales/marketing,28,4,337752,the+incredibles+2004
+10558,30,1,other or not specified,80,5,58790,cool+hand+luke+1967
+10559,30,1,executive/managerial,35,5,465095,sleepless+in+seattle+1993
+10560,20,0,self-employed,16,4,571949,chicken+run+2000
+10561,20,0,customer service,12,3,789915,pirates+of+the+caribbean+the+curse+of+the+black+pearl+2003
+10562,20,0,sales/marketing,18,4,451026,dirty+dancing+1987
+10563,30,0,executive/managerial,12,4,176425,lethal+weapon+3+1992
+10564,20,0,sales/marketing,28,4,465448,first+blood+1982
+10565,20,1,other or not specified,80,5,589440,taxi+driver+1976
+10566,20,0,self-employed,10751,3,230958,lady+and+the+tramp+1955
+10567,30,1,academic/educator,35,4,125478,national+lampoons+christmas+vacation+1989
+10568,50,0,sales/marketing,18,3,562649,the+firm+1993
+10569,20,0,self-employed,18,4,60334,platoon+1986
+10570,20,0,self-employed,28,4,249841,the+terminator+1984
+10571,20,0,sales/marketing,10749,2,729684,the+muppets+take+manhattan+1984
+10572,20,0,scientist,12,5,665819,the+lord+of+the+rings+the+fellowship+of+the+ring+2001
+10573,20,0,college/grad student,27,4,104505,resident+evil+2002
+10574,30,0,other or not specified,18,4,81882,gone+with+the+wind+1939
+10575,20,0,executive/managerial,28,4,719537,tombstone+1993
+10576,20,1,executive/managerial,35,5,108254,four+weddings+and+a+funeral+1994
+10577,30,0,homemaker,12,4,702409,indiana+jones+and+the+last+crusade+1989
+10578,30,0,college/grad student,10749,1,858803,look+whos+talking+too+1990
+10579,30,0,college/grad student,10749,3,408351,grumpier+old+men+1995
+10580,30,0,K-12 student,28,4,919823,twister+1996
+10581,20,0,scientist,16,3,776158,the+little+mermaid+1989
+10582,30,1,self-employed,12,2,821382,the+lost+world+jurassic+park+1997
+10583,20,0,college/grad student,35,2,444754,teaching+mrs.+tingle+1999
+10584,20,1,executive/managerial,18,5,83487,psycho+1960
+10585,20,0,sales/marketing,37,3,422247,unforgiven+1992
+10586,30,0,college/grad student,28,4,910654,die+hard+with+a+vengeance+1995
+10587,30,0,scientist,18,5,396949,the+english+patient+1996
+10588,20,1,retired,18,5,692836,the+godfather+part+ii+1974
+10589,30,0,executive/managerial,28,2,981913,popeye+1980
+10590,30,0,self-employed,12,3,421343,waterworld+1995
+10591,30,1,college/grad student,27,4,376954,lake+placid+1999
+10592,40,0,other or not specified,28,4,957399,the+bourne+supremacy+2004
+10593,20,0,sales/marketing,878,1,590275,alien+1992
+10594,30,0,executive/managerial,18,3,201909,the+rich+mans+wife+1996
+10595,30,1,academic/educator,14,1,243731,dogma+1999
+10596,30,0,customer service,12,4,961591,jumanji+1995
+10597,30,0,academic/educator,18,4,343128,much+ado+about+nothing+1993
+10598,40,1,executive/managerial,35,4,724433,catch+and+release+2006
+10599,20,0,scientist,14,4,283832,beetlejuice+1988
+10600,30,0,scientist,35,2,538276,bridget+jones+the+edge+of+reason+2004
+10601,30,0,college/grad student,878,3,696745,2001+a+space+odyssey+1968
+10602,20,0,college/grad student,12,1,896633,willow+1988
+10603,20,0,executive/managerial,16,3,719537,toy+story+1995
+10604,30,0,college/grad student,18,4,679331,apollo+13+1995
+10605,20,1,unemployed,18,3,970101,east+of+eden+1955
+10606,30,0,lawyer,28,5,585763,terminator+2+judgment+day+1991
+10607,30,0,executive/managerial,12,5,238025,tomorrow+never+dies+1997
+10608,30,0,college/grad student,28,5,289595,eraser+1996
+10609,20,1,self-employed,18,4,526758,dirty+dancing+1987
+10610,30,0,other or not specified,35,3,420994,moonstruck+1987
+10611,30,0,K-12 student,12,2,809364,bridge+to+terabithia+2007
+10612,20,1,artist,16,4,916898,the+aristocats+1970
+10613,20,1,executive/managerial,18,4,548154,american+beauty+1999
+10614,10,1,K-12 student,10749,3,543432,never+been+kissed+1999
+10615,10,0,executive/managerial,28,2,584952,mortal+kombat+1995
+10616,30,0,scientist,80,3,252660,the+net+1995
+10617,30,0,executive/managerial,878,1,867348,star+trek+generations+1994
+10618,20,0,K-12 student,12,1,267260,the+wiz+1978
+10619,30,0,executive/managerial,10770,4,412088,game+change+2012
+10620,20,0,self-employed,16,3,827117,aladdin+1992
+10621,30,0,sales/marketing,18,3,578897,the+basketball+diaries+1995
+10622,30,0,executive/managerial,878,5,894906,2001+a+space+odyssey+1968
+10623,30,0,self-employed,53,3,509691,leon+the+professional+1994
+10624,20,0,other or not specified,10749,3,205998,the+crying+game+1992
+10625,20,0,homemaker,35,3,370199,sweet+home+alabama+2002
+10626,30,0,executive/managerial,16,4,867348,aladdin+1992
+10627,20,0,scientist,14,4,339001,casper+1995
+10628,20,0,sales/marketing,16,4,22283,the+wrong+trousers+1993
+10629,40,1,homemaker,18,3,511982,the+client+1994
+10630,20,0,technician/engineer,35,3,269787,i.q.+1994
+10631,20,0,college/grad student,35,3,794779,happy_+texas+1999
+10632,30,1,clerical/admin,10749,1,684548,the+mask+1994
+10633,20,0,sales/marketing,18,4,892499,searching+for+bobby+fischer+1993
+10634,10,1,artist,12,2,761546,the+emperors+new+groove+2000
+10635,30,0,scientist,35,4,906314,little+miss+sunshine+2006
+10636,30,0,executive/managerial,18,4,347681,chariots+of+fire+1981
+10637,30,0,executive/managerial,28,3,781390,bloodsport+1988
+10638,10,0,sales/marketing,28,2,281108,another+stakeout+1993
+10639,30,0,college/grad student,28,4,942426,drunken+master+1978
+10640,30,0,customer service,28,5,278330,run+lola+run+1998
+10641,30,0,homemaker,80,5,870839,dial+m+for+murder+1954
+10642,30,0,sales/marketing,878,3,952695,e.t.+the+extra-terrestrial+1982
+10643,30,0,college/grad student,16,5,895830,the+wrong+trousers+1993
+10644,30,0,scientist,37,4,613984,the+good_+the+bad+and+the+ugly+1966
+10645,30,0,executive/managerial,18,5,182506,one+flew+over+the+cuckoos+nest+1975
+10646,30,0,sales/marketing,14,3,889550,the+nutty+professor+1996
+10647,40,0,sales/marketing,35,3,462565,borat+cultural+learnings+of+america+for+make+benefit+glorious+nation+of+kazakhstan+2006
+10648,20,0,homemaker,35,1,123531,and+now+for+something+completely+different+1971
+10649,30,0,sales/marketing,14,3,355127,heaven+can+wait+1978
+10650,20,0,self-employed,27,4,455949,rosemarys+baby+1968
+10651,20,0,self-employed,35,3,126396,slums+of+beverly+hills+1998
+10652,30,0,executive/managerial,80,5,613226,bound+1996
+10653,30,0,scientist,878,4,764551,eternal+sunshine+of+the+spotless+mind+2004
+10654,20,0,other or not specified,18,3,734008,the+usual+suspects+1995
+10655,30,0,clerical/admin,28,5,220296,letters+from+iwo+jima+2006
+10656,30,0,college/grad student,18,3,514021,wild+reeds+1994
+10657,50,0,executive/managerial,18,5,447095,dr.+strangelove+or+how+i+learned+to+stop+worrying+and+love+the+bomb+1964
+10658,50,0,sales/marketing,18,4,487794,affliction+1997
+10659,20,0,K-12 student,28,5,267260,king+kong+1933
+10660,20,0,scientist,35,5,8359,fletch+1985
+10661,30,0,college/grad student,80,4,385660,reservoir+dogs+1992
+10662,20,0,college/grad student,28,3,86675,broken+arrow+1996
+10663,20,0,college/grad student,80,5,17584,the+silence+of+the+lambs+1991
+10664,30,0,other or not specified,28,2,248873,total+recall+1990
+10665,30,0,homemaker,35,3,714620,strictly+ballroom+1992
+10666,20,0,college/grad student,10402,5,591581,mr.+hollands+opus+1995
+10667,30,0,college/grad student,28,3,813755,ransom+1996
+10668,30,0,college/grad student,16,5,27721,toy+story+1995
+10669,20,0,executive/managerial,14,5,957160,donnie+darko+2001
+10670,30,0,college/grad student,28,4,100547,enemy+of+the+state+1998
+10671,20,0,sales/marketing,18,4,354032,the+last+emperor+1987
+10672,20,0,scientist,35,4,613812,the+madness+of+king+george+1994
+10673,20,1,artist,53,4,916898,rise+of+the+planet+of+the+apes+2011
+10674,20,0,sales/marketing,18,4,729684,the+usual+suspects+1995
+10675,30,0,sales/marketing,27,4,218973,the+birds+1963
+10676,10,1,homemaker,10751,4,394637,the+lion+king+1994
+10677,30,0,college/grad student,35,3,515678,my+big+fat+greek+wedding+2002
+10678,20,0,college/grad student,12,4,618224,back+to+the+future+part+iii+1990
+10679,30,1,college/grad student,28,4,888452,abraham+lincoln+vampire+hunter+2012
+10680,30,0,executive/managerial,53,4,238025,phone+booth+2002
+10681,30,0,executive/managerial,18,4,135157,gods+and+monsters+1998
+10682,20,0,college/grad student,28,3,991639,mortal+kombat+1995
+10683,20,1,retired,14,4,692836,who+framed+roger+rabbit+1988
+10684,20,0,K-12 student,28,4,198556,bad+boys+1995
+10685,20,0,college/grad student,16,3,600116,oliver++company+1988
+10686,30,0,scientist,28,3,820213,the+matrix+1999
+10687,30,0,other or not specified,36,5,81882,butch+cassidy+and+the+sundance+kid+1969
+10688,60,0,retired,35,5,538969,forrest+gump+1994
+10689,20,0,scientist,16,4,484983,toy+story+3+2010
+10690,30,1,college/grad student,35,4,418499,thank+you+for+smoking+2005
+10691,20,0,self-employed,14,5,115885,being+john+malkovich+1999
+10692,30,0,college/grad student,28,5,731110,braveheart+1995
+10693,20,0,scientist,80,5,216237,the+silence+of+the+lambs+1991
+10694,30,0,college/grad student,18,5,543994,a.i.+artificial+intelligence+2001
+10695,40,1,academic/educator,12,4,768752,jurassic+park+1993
+10696,20,0,scientist,27,4,22708,the+texas+chainsaw+massacre+2003
+10697,20,0,sales/marketing,35,3,309644,jerry+maguire+1996
+10698,20,0,executive/managerial,14,2,342279,casper+1995
+10699,80,0,executive/managerial,35,3,316870,wonder+boys+2000
+10700,20,0,clerical/admin,80,4,391424,reservoir+dogs+1992
+10701,30,0,homemaker,28,1,447540,batman+begins+2005
+10702,30,0,self-employed,80,3,91816,boyz+n+the+hood+1991
+10703,20,1,artist,18,1,498687,gothic+1986
+10704,20,0,scientist,35,4,425359,youve+got+mail+1998
+10705,30,0,college/grad student,35,5,813755,house+arrest+1996
+10706,20,0,sales/marketing,28,1,590275,the+man+in+the+iron+mask+1998
+10707,20,0,sales/marketing,18,4,354032,for+love+of+the+game+1999
+10708,20,0,college/grad student,878,5,282728,2001+a+space+odyssey+1968
+10709,20,0,scientist,28,4,966367,twister+1996
+10710,30,0,scientist,35,3,613984,mary+poppins+1964
+10711,30,1,college/grad student,35,1,913667,father+of+the+bride+part+ii+1995
+10712,30,0,college/grad student,18,5,382590,the+shawshank+redemption+1994
+10713,20,0,clerical/admin,35,4,609067,local+hero+1983
+10714,30,0,self-employed,28,3,421343,under+siege+2+dark+territory+1995
+10715,20,1,sales/marketing,12,3,742103,20_000+leagues+under+the+sea+1954
+10716,30,0,executive/managerial,18,5,201909,the+english+patient+1996
+10717,30,0,sales/marketing,28,4,133077,avatar+2009
+10718,20,0,college/grad student,12,5,108537,shrek+2001
+10719,10,0,K-12 student,16,3,516269,bambi+1942
+10720,30,1,executive/managerial,35,2,743038,the+cannonball+run+1981
+10721,10,0,sales/marketing,35,1,547282,home+alone+2+lost+in+new+york+1992
+10722,30,0,college/grad student,35,5,769637,annie+hall+1977
+10723,20,0,college/grad student,878,2,475063,planet+of+the+apes+1968
+10724,30,0,sales/marketing,10751,3,691300,harry+potter+and+the+deathly+hallows+part+2+2011
+10725,30,0,college/grad student,18,3,728743,stand+and+deliver+1988
+10726,10,0,K-12 student,27,4,605426,blade+1998
+10727,30,0,scientist,18,4,314653,bicycle+thieves+1948
+10728,20,1,homemaker,18,5,334483,the+spanish+apartment+2002
+10729,30,0,college/grad student,35,5,425890,chasing+amy+1997
+10730,20,1,college/grad student,35,3,129015,matilda+1996
+10731,20,0,other or not specified,16,5,846016,toy+story+1995
+10732,20,0,K-12 student,80,4,267260,witness+1985
+10733,30,1,self-employed,14,4,821382,big+1988
+10734,20,1,other or not specified,28,4,169756,romancing+the+stone+1984
+10735,30,0,self-employed,18,4,159640,k-pax+2001
+10736,0,0,K-12 student,35,3,54845,forrest+gump+1994
+10737,20,0,technician/engineer,18,5,551118,rear+window+1954
+10738,30,0,K-12 student,35,2,809364,the+parent+trap+1961
+10739,30,0,sales/marketing,16,4,449274,monsters_+inc.+2001
+10740,20,1,retired,18,4,692836,rain+man+1988
+10741,0,0,scientist,28,4,618456,the+bourne+supremacy+2004
+10742,30,0,college/grad student,28,4,309381,the+bourne+identity+2002
+10743,20,0,college/grad student,12,3,879204,mission+impossible+1996
+10744,30,0,college/grad student,18,5,289595,phenomenon+1996
+10745,30,0,self-employed,80,3,768898,fx+1986
+10746,40,1,academic/educator,35,4,73434,cold+comfort+farm+1995
+10747,10,1,artist,10751,1,761546,the+adventures+of+elmo+in+grouchland+1999
+10748,20,0,college/grad student,18,3,600116,apollo+13+1995
+10749,20,0,self-employed,10749,5,578691,the+mask+1994
+10750,10,0,artist,14,3,213198,ghost+1990
+10751,30,0,college/grad student,28,5,254455,true+lies+1994
+10752,20,0,scientist,18,5,233528,hero+2002
+10753,20,0,academic/educator,99,1,920211,ellebrity+2013
+10754,10,0,K-12 student,14,3,516269,who+framed+roger+rabbit+1988
+10755,30,0,executive/managerial,18,5,123208,the+godfather+1972
+10756,20,1,self-employed,28,3,881247,hot+shots+part+deux+1993
+10757,20,0,scientist,36,3,617187,carrington+1995
+10758,30,0,college/grad student,18,4,214273,phenomenon+1996
+10759,30,0,college/grad student,35,5,903822,jay+and+silent+bob+strike+back+2001
+10760,20,1,other or not specified,18,5,475236,the+shawshank+redemption+1994
+10761,30,0,executive/managerial,35,3,448220,jack++sarah+1995
+10762,30,0,other or not specified,14,3,634161,batman+1989
+10763,30,0,scientist,12,4,763849,crocodile+dundee+1986
+10764,30,1,scientist,35,4,59954,a+fish+called+wanda+1988
+10765,20,1,other or not specified,12,3,589440,a+bugs+life+1998
+10766,30,0,self-employed,35,4,920213,kingpin+1996
+10767,20,1,college/grad student,35,4,253069,topsy-turvy+1999
+10768,20,1,scientist,10751,5,174125,the+jungle+book+1967
+10769,20,0,college/grad student,80,3,527199,taxi+driver+1976
+10770,30,0,college/grad student,80,4,540618,l.a.+confidential+1997
+10771,30,1,executive/managerial,35,5,863995,forrest+gump+1994
+10772,20,0,self-employed,28,5,688698,braveheart+1995
+10773,30,0,other or not specified,80,3,325453,the+godfather+part+iii+1990
+10774,30,0,artist,9648,4,464787,soylent+green+1973
+10775,20,0,college/grad student,16,4,336971,the+wrong+trousers+1993
+10776,30,0,college/grad student,35,4,756033,sleepless+in+seattle+1993
+10777,30,0,other or not specified,12,4,315054,the+empire+strikes+back+1980
+10778,30,0,executive/managerial,18,2,240597,at+first+sight+1999
+10779,30,0,other or not specified,9648,5,81882,north+by+northwest+1959
+10780,20,0,self-employed,12,3,954712,10_000+bc+2008
+10781,20,0,homemaker,12,2,123531,star+wars+1977
+10782,10,0,K-12 student,80,2,688395,snake+eyes+1998
+10783,20,0,college/grad student,27,4,814178,interview+with+the+vampire+1994
+10784,60,0,executive/managerial,9648,5,600025,citizen+kane+1941
+10785,70,1,retired,12,3,168976,the+mummy+1999
+10786,20,0,self-employed,28,3,578691,heat+1995
+10787,30,0,other or not specified,27,1,248873,the+faculty+1998
+10788,20,1,other or not specified,28,4,487161,chicago+2002
+10789,30,0,college/grad student,12,4,152596,homeward+bound+ii+lost+in+san+francisco+1996
+10790,50,0,sales/marketing,28,5,487794,heat+1995
+10791,30,0,academic/educator,27,3,269937,the+cell+2000
+10792,30,0,other or not specified,53,3,777739,heathers+1988
+10793,20,0,sales/marketing,35,3,179204,jackie+brown+1997
+10794,10,0,retired,28,3,964538,first+knight+1995
+10795,30,0,college/grad student,53,4,403820,desperado+1995
+10796,20,0,sales/marketing,28,2,422247,batman++robin+1997
+10797,20,1,scientist,35,1,753157,102+dalmatians+2000
+10798,20,0,scientist,18,5,283832,stuck+in+love+2012
+10799,20,1,other or not specified,14,5,475236,the+city+of+lost+children+1995
+10800,30,0,scientist,28,4,538276,the+count+of+monte+cristo+2002
+10801,20,0,K-12 student,10751,3,633232,the+lion+king+1994
+10802,30,0,other or not specified,14,5,676546,the+crow+1994
+10803,30,0,sales/marketing,27,3,355127,psycho+1998
+10804,20,0,sales/marketing,28,4,555611,stargate+1994
+10805,20,1,college/grad student,35,4,253069,sweet+and+lowdown+1999
+10806,20,0,scientist,80,5,894531,l.a.+confidential+1997
+10807,30,0,college/grad student,28,5,731110,batman+forever+1995
+10808,20,0,sales/marketing,28,1,437562,epic+movie+2007
+10809,20,0,executive/managerial,28,2,891193,clear+and+present+danger+1994
+10810,30,0,scientist,18,3,613984,raging+bull+1980
+10811,30,0,college/grad student,18,3,968671,fried+green+tomatoes+1991
+10812,30,0,college/grad student,28,3,854675,eraser+1996
+10813,30,0,other or not specified,18,4,813833,trainspotting+1996
+10814,30,0,scientist,35,1,396949,mr.+magoo+1997
+10815,20,0,tradesman/craftsman,28,3,380547,muppet+treasure+island+1996
+10816,30,0,executive/managerial,12,5,250257,conan+the+barbarian+1982
+10817,20,0,sales/marketing,12,3,716991,never+say+never+again+1983
+10818,30,0,sales/marketing,18,3,214185,kill+me+again+1989
+10819,20,0,college/grad student,18,4,527199,do+the+right+thing+1989
+10820,0,0,K-12 student,18,4,54845,rocky+1976
+10821,20,0,college/grad student,18,4,404638,searching+for+bobby+fischer+1993
+10822,30,0,scientist,35,4,695077,get+shorty+1995
+10823,30,0,artist,28,4,464787,heat+1995
+10824,20,0,other or not specified,35,5,352373,diner+1982
+10825,30,0,executive/managerial,16,4,933357,south+park+bigger_+longer++uncut+1999
+10826,30,0,college/grad student,28,4,710194,the+mexican+2001
+10827,30,0,self-employed,12,4,623475,the+fugitive+1993
+10828,50,0,executive/managerial,80,4,447095,on+the+waterfront+1954
+10829,20,0,college/grad student,99,4,40840,crumb+1994
+10830,30,0,artist,14,4,621966,the+curious+case+of+benjamin+button+2008
+10831,20,0,sales/marketing,35,2,36721,happy+gilmore+1996
+10832,30,0,clerical/admin,18,4,536123,dead+man+walking+1995
+10833,60,1,retired,18,5,736847,gran+torino+2008
+10834,30,1,homemaker,18,4,692593,wit+2001
+10835,20,0,college/grad student,80,4,112788,intolerable+cruelty+2003
+10836,30,0,sales/marketing,9648,5,772420,the+sixth+sense+1999
+10837,20,0,K-12 student,12,3,509718,return+of+the+jedi+1983
+10838,30,0,college/grad student,28,3,147315,cliffhanger+1993
+10839,10,0,executive/managerial,27,2,584952,jaws+1975
+10840,20,0,college/grad student,14,3,776688,to+die+for+1995
+10841,10,0,K-12 student,35,5,206618,forrest+gump+1994
+10842,30,1,college/grad student,16,5,376954,toy+story+2+1999
+10843,20,0,college/grad student,28,4,719681,robocop+2+1990
+10844,20,0,sales/marketing,12,4,713845,the+lord+of+the+rings+the+two+towers+2002
+10845,20,0,executive/managerial,12,4,852565,the+lord+of+the+rings+the+fellowship+of+the+ring+2001
+10846,20,0,self-employed,18,5,259789,the+perks+of+being+a+wallflower+2012
+10847,20,0,sales/marketing,18,3,918660,contact+1997
+10848,30,0,sales/marketing,12,4,780299,cast+away+2000
+10849,30,1,college/grad student,28,3,338314,true+romance+1993
+10850,30,0,college/grad student,10751,4,895830,a+close+shave+1995
+10851,20,0,college/grad student,28,3,906867,the+crow+iv+wicked+prayer+2005
+10852,30,0,executive/managerial,18,3,240597,the+thin+red+line+1998
+10853,20,0,scientist,18,5,994906,blood+diamond+2006
+10854,20,0,scientist,28,2,233528,deep+impact+1998
+10855,20,0,technician/engineer,878,3,761336,species+1995
+10856,30,0,executive/managerial,18,5,287656,schindlers+list+1993
+10857,20,0,executive/managerial,28,3,471979,crimson+tide+1995
+10858,20,0,college/grad student,28,4,930299,terminator+2+judgment+day+1991
+10859,30,0,artist,18,4,300262,yojimbo+1961
+10860,20,0,executive/managerial,12,3,726821,jurassic+park+1993
+10861,20,1,college/grad student,10749,4,488474,the+man+without+a+past+2002
+10862,30,0,executive/managerial,28,4,110289,the+running+man+1987
+10863,30,0,sales/marketing,35,3,216280,10+things+i+hate+about+you+1999
+10864,30,0,other or not specified,35,4,315054,broadcast+news+1987
+10865,50,0,scientist,18,3,9889,three+colors+blue+1993
+10866,30,0,college/grad student,28,5,254455,braveheart+1995
+10867,30,0,college/grad student,18,5,902621,dead+man+walking+1995
+10868,30,0,college/grad student,28,4,942426,terminator+2+judgment+day+1991
+10869,20,0,artist,18,4,882666,american+beauty+1999
+10870,30,0,college/grad student,28,3,178008,eraser+1996
+10871,20,1,self-employed,18,5,526758,sleepy+hollow+1999
+10872,20,0,self-employed,35,5,578691,happiness+1998
+10873,20,0,executive/managerial,80,4,777924,glengarry+glen+ross+1992
+10874,30,0,executive/managerial,35,4,649001,only+you+1994
+10875,20,1,homemaker,10751,3,923487,wish+upon+a+star+1996
+10876,20,0,sales/marketing,18,5,704591,devil+in+a+blue+dress+1995
+10877,20,1,retired,35,5,845411,singin+in+the+rain+1952
+10878,40,0,retired,35,4,805475,while+you+were+sleeping+1995
+10879,20,1,academic/educator,99,5,190794,when+we+were+kings+1996
+10880,20,0,college/grad student,12,4,903084,the+road+2009
+10881,30,0,college/grad student,28,3,265583,the+river+wild+1994
+10882,20,0,self-employed,35,3,954154,10+1979
+10883,20,0,executive/managerial,12,3,891193,dances+with+wolves+1990
+10884,20,0,college/grad student,35,3,287431,family+plot+1976
+10885,30,0,other or not specified,35,3,27035,ace+ventura+pet+detective+1994
+10886,30,0,scientist,28,5,608468,eraser+1996
+10887,20,0,academic/educator,878,4,547710,twelve+monkeys+1995
+10888,20,0,sales/marketing,80,3,39398,ace+ventura+when+nature+calls+1995
+10889,20,0,college/grad student,35,4,687463,ferris+buellers+day+off+1986
+10890,30,0,executive/managerial,35,3,613226,the+full+monty+1997
+10891,30,0,college/grad student,878,4,731110,star+trek+generations+1994
+10892,20,0,scientist,35,4,721467,superbad+2007
+10893,20,0,self-employed,28,4,249841,star+trek+ii+the+wrath+of+khan+1982
+10894,20,0,customer service,9648,5,709196,memento+2000
+10895,20,0,college/grad student,35,4,836016,ghostbusters+ii+1989
+10896,30,0,executive/managerial,80,3,107765,blue+velvet+1986
+10897,30,0,college/grad student,18,4,910654,the+pelican+brief+1993
+10898,30,0,college/grad student,878,4,543994,unbreakable+2000
+10899,30,0,college/grad student,28,2,518782,die+hard+with+a+vengeance+1995
+10900,30,0,college/grad student,12,4,835822,return+of+the+jedi+1983
+10901,40,1,executive/managerial,14,5,153743,snow+white+and+the+seven+dwarfs+1937
+10902,20,0,sales/marketing,80,3,116395,the+long+kiss+goodnight+1996
+10903,10,0,homemaker,16,3,930092,alice+in+wonderland+1951
+10904,20,1,clerical/admin,80,5,860796,fargo+1996
+10905,20,0,executive/managerial,12,3,515772,jurassic+park+1993
+10906,20,0,sales/marketing,35,3,794090,stranger+than+fiction+2006
+10907,20,0,college/grad student,35,3,207006,ed+wood+1994
+10908,30,0,executive/managerial,14,4,106504,batman+1989
+10909,20,0,executive/managerial,28,5,383110,speed+1994
+10910,20,0,self-employed,28,3,688698,robocop+1987
+10911,30,0,college/grad student,28,5,403820,the+rock+1996
+10912,20,0,scientist,12,4,35049,the+lost+world+jurassic+park+1997
+10913,30,0,self-employed,28,3,922118,eraser+1996
+10914,20,0,sales/marketing,10749,3,198737,pretty+woman+1990
+10915,20,1,retired,35,3,827561,twins+1988
+10916,30,0,college/grad student,10402,1,289595,mr.+hollands+opus+1995
+10917,30,0,scientist,18,4,444086,millers+crossing+1990
+10918,20,1,scientist,18,4,753157,girl_+interrupted+1999
+10919,20,0,college/grad student,18,5,145990,the+english+patient+1996
+10920,30,0,college/grad student,28,4,409182,deep+impact+1998
+10921,20,0,sales/marketing,28,3,729684,proof+of+life+2000
+10922,30,0,homemaker,35,4,893918,the+love+letter+1999
+10923,20,0,college/grad student,18,5,773507,like+water+for+chocolate+1992
+10924,20,1,homemaker,35,3,923487,american+pie+1999
+10925,30,0,sales/marketing,18,4,449274,the+cider+house+rules+1999
+10926,30,0,scientist,878,5,252660,blade+runner+1982
+10927,30,0,technician/engineer,18,3,177464,finding+forrester+2000
+10928,10,0,scientist,14,3,124994,being+john+malkovich+1999
+10929,20,0,sales/marketing,27,4,422247,a+nightmare+on+elm+street+1984
+10930,20,0,scientist,27,3,22708,cabin+fever+2003
+10931,20,1,academic/educator,18,4,368871,my+fair+lady+1964
+10932,20,0,college/grad student,28,1,641124,the+jackal+1997
+10933,30,0,sales/marketing,35,4,419380,forrest+gump+1994
+10934,30,1,college/grad student,18,5,561974,before+sunrise+1995
+10935,20,0,scientist,12,1,876891,the+fifth+element+1997
+10936,30,0,college/grad student,35,3,281802,mystery+science+theater+3000+the+movie+1996
+10937,30,0,homemaker,35,2,502931,annie+hall+1977
+10938,30,0,executive/managerial,14,5,683243,after+life+1998
+10939,20,0,other or not specified,28,3,769487,beverly+hills+cop+ii+1987
+10940,30,0,sales/marketing,35,4,691300,ferris+buellers+day+off+1986
+10941,30,0,academic/educator,28,5,269937,the+bourne+identity+2002
+10942,30,0,scientist,12,4,820213,raiders+of+the+lost+ark+1981
+10943,20,0,college/grad student,16,4,529119,dumbo+1941
+10944,20,1,other or not specified,18,4,589440,the+secret+garden+1993
+10945,30,0,other or not specified,36,3,777739,butch+cassidy+and+the+sundance+kid+1969
+10946,20,0,college/grad student,35,5,719681,mrs.+doubtfire+1993
+10947,20,1,homemaker,10749,5,6878,beauty+and+the+beast+1991
+10948,20,0,self-employed,10402,4,954154,pink+floyd+the+wall+1982
+10949,30,0,other or not specified,18,3,393419,the+secret+garden+1993
+10950,20,0,executive/managerial,12,5,700481,jurassic+park+1993
+10951,30,0,college/grad student,18,1,560232,american+beauty+1999
+10952,20,1,executive/managerial,35,4,548154,forrest+gump+1994
+10953,20,0,homemaker,878,4,123531,twelve+monkeys+1995
+10954,30,0,sales/marketing,12,4,133077,shrek+2001
+10955,20,0,technician/engineer,16,3,150514,aladdin+1992
+10956,20,1,college/grad student,80,5,911120,perfume+the+story+of+a+murderer+2006
+10957,20,0,college/grad student,35,4,112788,manhattan+1979
+10958,30,0,homemaker,35,3,870839,garden+state+2004
+10959,20,1,other or not specified,35,1,169756,i.q.+1994
+10960,30,0,artist,35,5,464787,jerry+maguire+1996
+10961,30,1,executive/managerial,18,5,465095,little+women+1994
+10962,20,0,scientist,16,4,971773,yellow+submarine+1968
+10963,30,0,homemaker,18,5,447540,eat+pray+love+2010
+10964,30,0,college/grad student,10749,2,616369,beauty+and+the+beast+1991
+10965,30,0,executive/managerial,12,3,883639,the+karate+kid_+part+ii+1986
+10966,30,0,other or not specified,18,4,634161,trainspotting+1996
+10967,20,0,sales/marketing,27,4,131365,blade+1998
+10968,20,0,college/grad student,27,4,466501,alien+1979
+10969,20,1,other or not specified,18,4,589440,smoke+signals+1998
+10970,20,0,technician/engineer,10751,4,269787,the+lion+king+1994
+10971,20,0,academic/educator,28,1,818778,inspector+gadget+1999
+10972,30,0,sales/marketing,12,3,74132,return+of+the+jedi+1983
+10973,20,0,other or not specified,53,5,734008,pulp+fiction+1994
+10974,20,0,executive/managerial,80,5,610413,natural+born+killers+1994
+10975,20,0,scientist,18,4,425359,the+secret+of+roan+inish+1994
+10976,20,0,self-employed,80,1,455949,the+generals+daughter+1999
+10977,20,0,scientist,18,3,944442,the+beaver+2011
+10978,30,0,college/grad student,18,4,416693,the+usual+suspects+1995
+10979,20,0,college/grad student,35,3,798257,tin+cup+1996
+10980,20,0,executive/managerial,53,3,586551,the+talented+mr.+ripley+1999
+10981,30,0,college/grad student,10751,1,924949,the+karate+kid_+part+iii+1989
+10982,20,0,college/grad student,18,1,793125,field+of+dreams+1989
+10983,30,0,executive/managerial,28,3,966826,spy+hard+1996
+10984,30,0,other or not specified,35,3,777739,so+i+married+an+axe+murderer+1993
+10985,20,0,scientist,18,5,668267,restoration+1995
+10986,20,0,K-12 student,35,2,520205,superman+iii+1983
+10987,70,1,retired,18,5,699831,crazybeautiful+2001
+10988,40,0,retired,14,3,805475,batman+1989
+10989,20,0,sales/marketing,35,5,439622,annie+hall+1977
+10990,30,0,other or not specified,35,3,634161,ace+ventura+pet+detective+1994
+10991,30,0,college/grad student,16,4,254455,aladdin+1992
+10992,20,0,scientist,80,5,950129,young+guns+1988
+10993,30,0,other or not specified,18,4,420994,breaking+the+waves+1996
+10994,20,1,homemaker,12,5,6878,rob+roy+1995
+10995,20,0,executive/managerial,27,5,891193,interview+with+the+vampire+1994
+10996,30,0,executive/managerial,12,3,201909,the+ghost+and+the+darkness+1996
+10997,30,0,sales/marketing,53,4,527475,u+turn+1997
+10998,30,0,executive/managerial,18,3,412088,the+shawshank+redemption+1994
+10999,30,0,other or not specified,18,3,365649,its+a+wonderful+life+1946
+11000,20,0,scientist,27,3,152876,van+helsing+2004
